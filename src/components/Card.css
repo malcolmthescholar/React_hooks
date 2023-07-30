@@ -1,0 +1,21 @@
+.ccd {
+    /* width: 80%; */
+    background-image: linear-gradient(to left, white,
+            rgba(29, 14, 81, 0.897));
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    width: 80%;
+
+}
+
+.Card {
+    margin: 2rem;
+    padding: 1em;
+    display: block;
+    border-radius: 1em;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
